@@ -59,7 +59,7 @@ git clone https://github.com/Ibrahim-Abu-Assad/Pizza-Order-App.git
 
   ## 👨‍💻 Author
 
-**Ibrahim Abu-Assad**  
+**Ibrahim Abu-Asaad**  
 
 🌐 [GitHub Profile](https://github.com/Ibrahim-Abu-Asaad)
 
