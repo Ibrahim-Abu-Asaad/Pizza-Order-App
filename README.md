@@ -61,7 +61,8 @@ git clone https://github.com/Ibrahim-Abu-Assad/Pizza-Order-App.git
 
 **Ibrahim Abu-Assad**  
 
-🌐 [GitHub Profile](https://github.com/Ibrahim-Abu-Asaad)  
+🌐 [GitHub Profile](https://github.com/Ibrahim-Abu-Asaad)
+
 📧 i6802275@gmail.com
 
 ---
